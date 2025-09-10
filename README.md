@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Graham Baker
 
-# Your Github username
+# bakergrr
